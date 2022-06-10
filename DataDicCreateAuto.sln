@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DataDicCreateAuto", "DataDicCreateAuto.vbproj", "{EFB922E9-7C19-4982-9E1B-4601ED8E2507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFB922E9-7C19-4982-9E1B-4601ED8E2507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB922E9-7C19-4982-9E1B-4601ED8E2507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB922E9-7C19-4982-9E1B-4601ED8E2507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB922E9-7C19-4982-9E1B-4601ED8E2507}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5102619-2639-459B-984A-04B07FF5EF11}
+	EndGlobalSection
+EndGlobal
